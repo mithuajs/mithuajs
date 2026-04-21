@@ -27,6 +27,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge\&logo=instagram)](https://www.instagram.com/mithuajs?igsh=Y3o2dTBqZXE2NzJo)
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:mdmobasherhossenmithu@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/8801857810423)
+[![Shopnonir Foundation](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shopnonirfoundation-svg.github.io/shopnonirfoundation/index.html)
+
 ---
 
 <h2 align="center">🛠️ Skills & Tools</h2>
