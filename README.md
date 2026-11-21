@@ -58,11 +58,12 @@
 
 ## 📊 GitHub Stats & Streaks
 
-![Mithu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mithuajs&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithuajs&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mithuajs&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithuajs&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mithuajs&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mithuajs&theme=tokyonight&hide_border=true)
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mithuajs&theme=tokyo-night) 
 
