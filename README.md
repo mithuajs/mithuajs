@@ -71,11 +71,12 @@
 
 
 
+
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
 
-<img src="https://github.com/mithuajs/mithuajs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="80%"/>
+<img src="https://raw.githubusercontent.com/mithuajs/mithuajs/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 
 </div>
 
