@@ -4,10 +4,21 @@
 
 
 
+
 # 👋 Hi there, I'm Mithu
-<p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Computer+Science+and+Tecnology+Student;Frontend+Developer;Learning+JavaScript+%26+React;Future+Software+Engineer" />
-  <p align="center" > Passionate Web Developer and Future Software Engineer from Bangladesh</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Computer+Science+and+Technology+Student;Frontend+Developer;Learning+JavaScript+%26+React;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  Passionate Web Developer and Future Software Engineer from Bangladesh
+</p>
+
+<p align="center">
+  <a href="https://mithuajs.is-a.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/MY%20PORTFOLIO-Visit%20Now-B3F5F7?style=for-the-badge&logo=vercel&logoColor=black" alt="My Portfolio" />
+  </a>
 </p>
 
 
